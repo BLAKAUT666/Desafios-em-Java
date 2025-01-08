@@ -1,6 +1,4 @@
-package teste;
-
-import dominio.ContaBancaria;
+package dominio;
 
 public class ContaBancariaTeste {
     public static void main(String[] args) {
