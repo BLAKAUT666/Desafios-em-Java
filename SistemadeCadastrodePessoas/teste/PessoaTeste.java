@@ -10,5 +10,6 @@ public class PessoaTeste {
 
         cadastro.adicionar(pessoa01);
         cadastro.adicionar(pessoa02);
+        cadastro.remove(pessoa01);
     }
 }
